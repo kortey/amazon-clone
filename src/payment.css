@@ -1,0 +1,67 @@
+
+
+
+
+
+.checkout__container{
+   background-color: white;
+   margin-top: 2rem;
+}
+
+.checkout__number{
+    margin: 1rem 0;
+    text-align: center;
+
+}
+
+.details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+.details:first-child{
+    border-bottom: 0.5px solid grey;
+}
+.details:last-child{
+    padding: 0 0 10px;
+
+}
+
+
+
+
+
+
+
+.payment__page{
+    width: 90%;
+    margin: 3rem auto;
+}
+
+
+.payment__section{
+    width :90%;
+    margin: 1rem auto;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    
+}
+
+.payment__total{
+    margin: 20px 0;
+}
+
+.payment__total span{
+    opacity: 0.5;
+}
+.payment__title{
+    flex :0.5;
+    opacity: 0.5;
+}
+.payment__details{
+    flex:0.5;
+}
+

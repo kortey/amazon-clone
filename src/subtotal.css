@@ -1,0 +1,14 @@
+.subtotal{
+    background-color: white;
+    padding: 3rem;
+    box-shadow: -5px -5px #cd9042;
+    border-radius: 10px;
+    border-bottom: 5px solid #cd9042;
+    border-right: 5px solid #cd9042;
+    width: 300px;
+}
+button{
+    background-color: #cd9042;
+    width: 100%;
+    margin-top: 10px;
+}
